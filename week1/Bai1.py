@@ -20,4 +20,4 @@ print(f"{a} dịch phải 5 bit = {a >> 5}")
 print(f"{a} dịch trái 6 bit = {a << 6}")
 bit = bin(a)[2:]
 kq = bit[::-1]
-print(f"hệ cơ số 2 đảo ngược của {a} là {~bit}")
+print(f"hệ cơ số 2 đảo ngược của {a} là {kq}")
