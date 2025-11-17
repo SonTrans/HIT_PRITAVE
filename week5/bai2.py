@@ -7,7 +7,7 @@ def find_by_id(data, id):
 def filter_by_score(data, min_score):
     return [student for student in data if student["score"] >= min_score]
 def sort_by_score(data, reverse=False):
-    return sorted(data, key= lambda x:x['score'],reverse = reverse)
+    return sorted(data, key= lambda x:x['score'])
 def add_student(data, student_dict):
     data.append(student_dict)  
 def remove_student(data, id):
