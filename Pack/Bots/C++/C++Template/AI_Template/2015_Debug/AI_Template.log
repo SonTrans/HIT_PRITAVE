@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\Pack3.3a\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(296,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Pack3.3a\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(296,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Pack3.3a\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(367,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Pack3.3a\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(367,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Pack3.3a\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(368,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Pack3.3a\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(368,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  LINK : D:\Pack3.3a\Pack\Bots\C++\C++Template\2015_Debug\AI_Template.exe not found or not built by the last incremental link; performing full link
+  AI_Template.vcxproj -> D:\Pack3.3a\Pack\Bots\C++\C++Template\2015_Debug\AI_Template.exe
